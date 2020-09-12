@@ -4,7 +4,7 @@ This package can be used to find the executable path of Google Chrome on MacOS, 
 
 To use, simply do:
 ```
-from locatechrome import get_path
+from locate_chrome import get_path
 print(get_path())
 ```
 
